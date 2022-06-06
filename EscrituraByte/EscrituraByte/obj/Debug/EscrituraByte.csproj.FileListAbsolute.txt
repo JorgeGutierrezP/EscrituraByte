@@ -1,0 +1,8 @@
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\EscrituraByte\EscrituraByte\bin\Debug\EscrituraByte.exe.config
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\EscrituraByte\EscrituraByte\bin\Debug\EscrituraByte.exe
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\EscrituraByte\EscrituraByte\bin\Debug\EscrituraByte.pdb
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.exe
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.pdb
